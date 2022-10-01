@@ -1,0 +1,2 @@
+****templates change:
+- templates\checkout\_partials\steps\addresses.tpl
